@@ -1,0 +1,10 @@
+# top-level .htaccess
+
+AddType text/html .shtml
+AddOutputFilter INCLUDES .shtml
+
+# allow includes/mod_rewrites
+Options +FollowSymLinks
+Options +Includes
+
+XBitHack on

@@ -1,0 +1,30 @@
+﻿<div class="TopContainer">
+	<div class="pageControl">
+  		<div class="certLogo notMobile"><a href="index.html"><img src="images/certinty_logo.png" alt="Certainty Logo" title="Certainty" /></a></div>
+        <div class="certLogo mobile" onclick="showMenu();" style="cursor:pointer;"><img src="images/certainty_horizontal.png" alt="Certainty Logo" title="Certainty" /></div>
+  		<!--#include virtual="spimenu.shtml" -->
+            <div class="menuNav" id="menuNavToggle" style="display:none;">
+                <ul>
+                  <li id="homeTabm" class="mobile"><a id="hm1" href="index2.html">Home</a></li>
+                  <li><a id="pg1m" href="why.html">Discover</a></li>
+                  <li><a id="pg2m" href="tech.html">Technologies</a></li>
+                  <li><a id="pg3m" href="faq.html">FAQ</a></li>
+                  <li><a id="pg4m" href="products.html">Products</a></li>
+                  <li><a id="pg5m" href="http://www.multivu.com/players/English/7458151-strategic-partners-certainty/" target="_blank">News & Media</a></li>
+                  <li><a id="pg6m" href="stores.html">Store Locator</a></li>
+                </ul>
+            </div>
+            <div class="menuNav notMobile">
+                <ul>
+                  <li id="homeTab" class="mobile"><a id="hm1" href="index2.html">Home</a></li>
+                  <li><a id="pg1" href="why.html">Discover</a></li>
+                  <li><a id="pg2" href="tech.html">Technologies</a></li>
+                  <li><a id="pg3" href="faq.html">FAQ</a></li>
+                  <li><a id="pg4" href="products.html">Products</a></li>
+                  <li><a id="pg5" href="http://www.multivu.com/players/English/7458151-strategic-partners-certainty/" target="_blank">News & Media</a></li>
+                  <li><a id="pg6" href="stores.html">Buy Now</a></li>
+                </ul>
+            </div>
+        <div class="grayHorz"><img src="../images/grayline.png" class="topHorz" /></div>
+    </div>
+</div>

@@ -1,0 +1,31 @@
+﻿<div class="menuNav">
+    <ul>
+      <li>
+      	<a id="pg1" href="mission.html" >
+        	<span class="cImg"><img src="images/button1.png" alt="b1" /></span>
+            <span class="CText">Get to know <br/>Strategic Partners Inc.<span class="kay">&reg;</span></span>
+            <span class="Green lmore">Learn More ></span>
+         </a>
+      </li>
+      <li>
+      	<a id="pg2" href="brands.html">
+        	<span class="cImg"><img src="images/button2.png" alt="b2" /></span>
+            <span class="CText single"><br />Meet our brands</span>
+            <span class="Teal lmore">Learn More ></span>
+        </a>
+      </li>
+      <li>
+      	<a id="pg3" href="http://www.certaintytechnologies.com" target="blank">
+        	<span class="cImg"><img src="images/button3.png" alt="b3" /></span>
+            <span class="CText">Introducing<br />CERTAINTY<span class="kay">TM</span> technologies</span>
+            <span class="Green lmore">Learn More ></span></a>
+       </li>
+      <li>
+      	<a id="pg4" href="http://www.colorcodehappy.com"  target="blank">
+        	<span class="cImg"><img src="images/button4.png" alt="b4" /></span>
+            <span class="CText">Our group <br />solution at work</span>
+            <span class="Teal lmore">Learn More ></span>
+        </a>
+      </li>
+    </ul>
+  </div>
